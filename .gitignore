@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+/gen
+/bin
+/libs
+/.classpath
+/.project
